@@ -7,6 +7,7 @@
 ## Instructor Information
 
 Instructor:**Hong Shui**
+
 E-mail: SHUI0003@umn.edu
 
 Phone:
