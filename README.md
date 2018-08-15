@@ -8,8 +8,11 @@
 
 Instructor:**Hong Shui**
 E-mail: SHUI0003@umn.edu
+
 Phone:
+
 Office:
+
 Office Hours: By Appointment
 
 ## College of Education & Human Development Mission Statement
