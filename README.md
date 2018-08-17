@@ -7,13 +7,9 @@
 ## Instructor Information
 
 Instructor:**Hong Shui**
-
 E-mail: SHUI0003@umn.edu
-
 Phone:
-
 Office:
-
 Office Hours: By Appointment
 
 ## College of Education & Human Development Mission Statement
@@ -21,5 +17,6 @@ The mission of the University of Minnesota College of Education and Human Develo
 
 
 ## Course Description and Themes
+This course examines the instructional uses of computers and representative business, education, and marketing applications, including word processing, spreadsheets, social media, and web design. Along with the development of ICT skills, the following aspects of digital literacy are expected to cultivate: communications and collaboration, career and identity management, learning skills, information literacy. we are guided by the following themes and questions.
 
 
